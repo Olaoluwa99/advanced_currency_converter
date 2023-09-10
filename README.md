@@ -1,7 +1,8 @@
 
 # Advanced Currency Converter App
 
-![App Logo](app_logo.png)
+![App Logo](https://images.app.goo.gl/ZEFHfFwEEyF7RCBP8)
+
 
 The Advanced Currency Converter App is a powerful tool that allows users to effortlessly convert between different currencies. This README provides an overview of the app's features, installation instructions, and usage guidelines.
 
