@@ -1,6 +1,4 @@
-Certainly! Here's a sample README in markdown format for an Advanced Currency Converter app:
 
-```markdown
 # Advanced Currency Converter App
 
 ![App Logo](app_logo.png)
