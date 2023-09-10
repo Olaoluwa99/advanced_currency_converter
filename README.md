@@ -27,7 +27,7 @@ To use the Advanced Currency Converter App, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/advanced-currency-converter.git
+   git clone https://github.com/Olaoluwa99/advanced_currency_converter.git
    ```
 
 2. Install the necessary dependencies using your preferred package manager:
@@ -72,5 +72,3 @@ If you have any questions or suggestions, feel free to contact us at [contact@ex
 
 Happy currency converting!
 ```
-
-Please replace `app_logo.png`, `https://github.com/yourusername/advanced-currency-converter.git`, and the contact email with the appropriate information for your app. Additionally, consider customizing it further to suit your app's specific features and requirements.
